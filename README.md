@@ -5,6 +5,6 @@ A responsive single-page landing built with HTML5 and CSS3. Includes navigation 
 # Run Locally
 1. Clone the repo: git clone https://github.com/Z1g1e/frontend-portfolio.
 2. Install dependencies: npm install.
-3. Run development server: npm start.
+3. Run server: npm start.
 
 
